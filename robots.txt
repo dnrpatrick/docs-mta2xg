@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-3dg9gu.salamcuan.shop/sitemap.xml
